@@ -1,0 +1,50 @@
+/* file index.php */
+- line 9, change $_SESSION['device'] = "iphone"; to $_SESSION['device'] = 'iphone';
+- line 13, change $_SESSION['device'] = "other"; to $_SESSION['device'] = 'other';
+- line 17, change $_SESSION['device'] = "other"; to $_SESSION['device'] = 'other';
+- line 35, change $appId = "113681738755139"; to $appId = '113681738755139';
+- line 36, change $appSecret = "330a55af4ed90a823d58b4d92009d2c0"; to $appSecret = '330a55af4ed90a823d58b4d92009d2c0';
+- line 47, change 'scope' => 'publish_stream,offline_access,user_groups,user_events,manage_pa
+ges,read_stream,email'
+  to
+  'scope' => 'publish_stream,offline_access,user_groups,user_events,manage_pa
+
+   ges,read_stream,email'
+
+- all line, change tab to 4 spaces
+
+/* file Mobile_Detect.php */
+- all line, change tab to 4 spaces
+
+/* file submit.php */
+- all line, change tab to 4 spaces
+- line 25, $appId = "113681738755139"; to $appId = '113681738755139';
+- line 26, $appSecret = "330a55af4ed90a823d58b4d92009d2c0"; to $appSecret = '330a55af4ed90a823d58b4d92009d2c0';
+- line 36, lines > 85
+
+/* file redirect.php */
+- all line, change tab to 4 spaces
+
+/* file facebook/base_facebook.php */
+- all line, change tab to 4 spaces
+- line 776, change key and value 
+
+/* file facebook/facebook.php */
+- all line, change tab to 4 spaces
+
+
+
+
+/* file mobi/function.php */
+- all line, change tab to 4 spaces 
+
+
+/* file mobi/index.php */
+- all line, change tab to 4 spaces
+- line 90, change to tmp = ''
+
+/* file mobi/redirect.php */
+- all line, change tab to 4 spaces
+
+/* file mobi/submit.php */
+- all line, change tab to 4 spaces
